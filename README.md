@@ -31,3 +31,6 @@ Useful Gradle tasks and flags:
 
 Note that most tasks that are not specific to a single project can be run with `name:` prefix, where the `name` should be replaced with the ID of a specific project.
 For example, `core:clean` removes `build` folder only from the `core` project.
+
+#Project 
+This is an implementation of 20MinTillDawn game using libgdx in java , it uses mongodb as database server 
